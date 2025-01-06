@@ -58,7 +58,7 @@ dotnet run
 ```
 
 # API Endpoints
-```
+
 ## Activity Endpoints
 
 ### **GET** `/api/Activity`
@@ -412,7 +412,6 @@ Updates a specific ticket by its ID.
 Deletes a specific ticket by its ID.
 
 ---
-```
 
 ## Data Models (Schemas)
 
