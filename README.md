@@ -58,6 +58,7 @@ dotnet run
 ```
 
 # API Endpoints
+```
 ## Activity Endpoints
 
 ### **GET** `/api/Activity`
@@ -411,6 +412,7 @@ Updates a specific ticket by its ID.
 Deletes a specific ticket by its ID.
 
 ---
+```
 
 ## Data Models (Schemas)
 
@@ -439,3 +441,13 @@ The following data models define the structure of data used in the API:
 Each of these models represents the structure of data used in various API endpoints and is key for data interaction and storage.
 
 ---
+
+## **Contact**
+
+For questions, suggestions, or any problems, feel free to contact me:
+
+- **Email**: [enis.egemen25@gmail.com](mailto:enis.egemen25@gmail.com)
+
+---
+
+Thank you for discovering **AuthApp Platform**!
