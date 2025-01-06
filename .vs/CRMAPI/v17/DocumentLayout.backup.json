@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\salespipelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\salespipelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\interactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\interactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|c:\\users\\egemen.ertas\\desktop\\d\u00FCzxenle\\crmapi\\crmapi\\controllers\\crmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F89F7C-34EA-4A0D-8D36-6A727B38C598}|CRMAPI\\CRMAPI.csproj|solutionrelative:crmapi\\controllers\\crmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:41:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:41:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesPipelineController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\SalesPipelineController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\SalesPipelineController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\SalesPipelineController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\SalesPipelineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:40:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:40:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReminderController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ReminderController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\ReminderController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ReminderController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\ReminderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:39:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:38:47.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:38:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA3wEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:38:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\LeadController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\LeadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:37:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:37:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InteractionController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\InteractionController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\InteractionController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\InteractionController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\InteractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:36:50.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:36:28.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:35:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:35:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrmController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\CrmController.cs",
+              "RelativeDocumentMoniker": "CRMAPI\\Controllers\\CrmController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\d\u00FCzxenle\\CRMAPI\\CRMAPI\\Controllers\\CrmController.cs",
+              "RelativeToolTip": "CRMAPI\\Controllers\\CrmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:35:01.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
