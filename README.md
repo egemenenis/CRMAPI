@@ -1,3 +1,4 @@
+
 # API Documentation
 
 This API provides various endpoints for managing services and data operations. Below you will find a list of HTTP methods (GET, POST, PUT, DELETE) for each resource, along with brief descriptions of their functionality.
@@ -57,359 +58,265 @@ Run the following command to start the application:
 dotnet run
 ```
 
-# API Endpoints
+## API Endpoints
 
-## Activity Endpoints
+### Activity Endpoints
 
-### **GET** `/api/Activity`
-Lists all activities.
+##### **GET** `/api/Activity` - Lists all activities.
 
-### **POST** `/api/Activity`
-Creates a new activity.
+##### **POST** `/api/Activity` - Creates a new activity.
 
-### **GET** `/api/Activity/{id}`
-Retrieves a specific activity by its ID.
+##### **GET** `/api/Activity/{id}` - Retrieves a specific activity by its ID.
 
-### **PUT** `/api/Activity/{id}`
-Updates a specific activity by its ID.
+##### **PUT** `/api/Activity/{id}` - Updates a specific activity by its ID.
 
-### **DELETE** `/api/Activity/{id}`
-Deletes a specific activity by its ID.
+##### **DELETE** `/api/Activity/{id}` - Deletes a specific activity by its ID.
 
 ---
 
-## Auth Endpoints
+### Auth Endpoints
 
-### **GET** `/api/Auth`
-Retrieves general authentication information.
+##### **GET** `/api/Auth` - Retrieves general authentication information.
 
-### **GET** `/api/Auth/{id}`
-Retrieves a specific user by their ID.
+##### **GET** `/api/Auth/{id}` - Retrieves a specific user by their ID.
 
-### **POST** `/api/Auth/login`
-Logs in a user.
+##### **POST** `/api/Auth/login` - Logs in a user.
 
-### **POST** `/api/Auth/register`
-Registers a new user.
+##### **POST** `/api/Auth/register` - Registers a new user.
 
-### **PUT** `/api/Auth/update/{id}`
-Updates user information.
+##### **PUT** `/api/Auth/update/{id}` - Updates user information.
 
-### **DELETE** `/api/Auth/delete/{id}`
-Deletes a user by their ID.
+##### **DELETE** `/api/Auth/delete/{id}` - Deletes a user by their ID.
 
 ---
 
-## Campaign Endpoints
+### Campaign Endpoints
 
-### **GET** `/api/Campaign`
-Lists all campaigns.
+##### **GET** `/api/Campaign` - Lists all campaigns.
 
-### **POST** `/api/Campaign`
-Creates a new campaign.
+##### **POST** `/api/Campaign`- Creates a new campaign.
 
-### **GET** `/api/Campaign/{id}`
-Retrieves a specific campaign by its ID.
+##### **GET** `/api/Campaign/{id}` - Retrieves a specific campaign by its ID.
 
-### **PUT** `/api/Campaign/{id}`
-Updates a specific campaign by its ID.
+##### **PUT** `/api/Campaign/{id}` - Updates a specific campaign by its ID.
 
-### **DELETE** `/api/Campaign/{id}`
-Deletes a specific campaign by its ID.
+##### **DELETE** `/api/Campaign/{id}` - Deletes a specific campaign by its ID.
 
 ---
 
-## Crm Endpoints
+### Crm Endpoints
 
-### **GET** `/api/Crm`
-Lists all CRM data.
+##### **GET** `/api/Crm` - Lists all CRM data.
 
-### **POST** `/api/Crm`
-Creates new CRM data.
+##### **POST** `/api/Crm` - Creates new CRM data.
 
-### **GET** `/api/Crm/stats`
-Retrieves statistics related to CRM.
+##### **GET** `/api/Crm/stats` - Retrieves statistics related to CRM.
 
-### **GET** `/api/Crm/latest`
-Retrieves the latest CRM data.
+##### **GET** `/api/Crm/latest` - Retrieves the latest CRM data.
 
-### **PUT** `/api/Crm/{id}`
-Updates a specific CRM record by its ID.
+##### **PUT** `/api/Crm/{id}` - Updates a specific CRM record by its ID.
 
-### **DELETE** `/api/Crm/{id}`
-Deletes a specific CRM record by its ID.
+##### **DELETE** `/api/Crm/{id}` - Deletes a specific CRM record by its ID.
 
 ---
 
-## Customer Endpoints
+### Customer Endpoints
 
-### **GET** `/api/Customer`
-Lists all customers.
+##### **GET** `/api/Customer` - Lists all customers.
 
-### **POST** `/api/Customer`
-Creates a new customer.
+##### **POST** `/api/Customer` - Creates a new customer.
 
-### **GET** `/api/Customer/{id}`
-Retrieves a specific customer by its ID.
+##### **GET** `/api/Customer/{id}` - Retrieves a specific customer by its ID.
 
-### **PUT** `/api/Customer/{id}`
-Updates a specific customer by its ID.
+##### **PUT** `/api/Customer/{id}` - Updates a specific customer by its ID.
 
-### **DELETE** `/api/Customer/{id}`
-Deletes a specific customer by its ID.
+##### **DELETE** `/api/Customer/{id}` - Deletes a specific customer by its ID.
 
 ---
 
-## Document Endpoints
+### Document Endpoints
 
-### **GET** `/api/Document`
-Lists all documents.
+##### **GET** `/api/Document` - Lists all documents.
 
-### **POST** `/api/Document`
-Creates a new document.
+##### **POST** `/api/Document` - Creates a new document.
 
-### **GET** `/api/Document/{id}`
-Retrieves a specific document by its ID.
+##### **GET** `/api/Document/{id}` - Retrieves a specific document by its ID.
 
-### **PUT** `/api/Document/{id}`
-Updates a specific document by its ID.
+##### **PUT** `/api/Document/{id}` - Updates a specific document by its ID.
 
-### **DELETE** `/api/Document/{id}`
-Deletes a specific document by its ID.
+##### **DELETE** `/api/Document/{id}` - Deletes a specific document by its ID.
 
 ---
 
-## Feedback Endpoints
+### Feedback Endpoints
 
-### **GET** `/api/Feedback`
-Lists all feedbacks.
+##### **GET** `/api/Feedback` - Lists all feedbacks.
 
-### **POST** `/api/Feedback`
-Creates a new feedback.
+##### **POST** `/api/Feedback` - Creates a new feedback.
 
-### **GET** `/api/Feedback/{id}`
-Retrieves a specific feedback by its ID.
+##### **GET** `/api/Feedback/{id}` - Retrieves a specific feedback by its ID.
 
-### **PUT** `/api/Feedback/{id}`
-Updates a specific feedback by its ID.
+##### **PUT** `/api/Feedback/{id}` - Updates a specific feedback by its ID.
 
-### **DELETE** `/api/Feedback/{id}`
-Deletes a specific feedback by its ID.
+##### **DELETE** `/api/Feedback/{id}` - Deletes a specific feedback by its ID.
 
 ---
 
-## Interaction Endpoints
+### Interaction Endpoints
 
-### **GET** `/api/Interaction`
-Lists all interactions.
+##### **GET** `/api/Interaction` - Lists all interactions.
 
-### **POST** `/api/Interaction`
-Creates a new interaction.
+##### **POST** `/api/Interaction` - Creates a new interaction.
 
-### **GET** `/api/Interaction/{id}`
-Retrieves a specific interaction by its ID.
+##### **GET** `/api/Interaction/{id}` - Retrieves a specific interaction by its ID.
 
-### **PUT** `/api/Interaction/{id}`
-Updates a specific interaction by its ID.
+##### **PUT** `/api/Interaction/{id}` - Updates a specific interaction by its ID.
 
-### **DELETE** `/api/Interaction/{id}`
-Deletes a specific interaction by its ID.
+##### **DELETE** `/api/Interaction/{id}` - Deletes a specific interaction by its ID.
 
 ---
 
-## Invoice Endpoints
+### Invoice Endpoints
 
-### **GET** `/api/Invoice`
-Lists all invoices.
+##### **GET** `/api/Invoice` - Lists all invoices.
 
-### **POST** `/api/Invoice`
-Creates a new invoice.
+##### **POST** `/api/Invoice` - Creates a new invoice.
 
-### **GET** `/api/Invoice/{id}`
-Retrieves a specific invoice by its ID.
+##### **GET** `/api/Invoice/{id}` - Retrieves a specific invoice by its ID.
 
-### **PUT** `/api/Invoice/{id}`
-Updates a specific invoice by its ID.
+##### **PUT** `/api/Invoice/{id}` - Updates a specific invoice by its ID.
 
-### **DELETE** `/api/Invoice/{id}`
-Deletes a specific invoice by its ID.
+##### **DELETE** `/api/Invoice/{id}` - Deletes a specific invoice by its ID.
 
 ---
 
-## Lead Endpoints
+### Lead Endpoints
 
-### **GET** `/api/Lead`
-Lists all leads.
+##### **GET** `/api/Lead` - Lists all leads.
 
-### **POST** `/api/Lead`
-Creates a new lead.
+##### **POST** `/api/Lead` - Creates a new lead.
 
-### **GET** `/api/Lead/{id}`
-Retrieves a specific lead by its ID.
+##### **GET** `/api/Lead/{id}` - Retrieves a specific lead by its ID.
 
-### **PUT** `/api/Lead/{id}`
-Updates a specific lead by its ID.
+##### **PUT** `/api/Lead/{id}` - Updates a specific lead by its ID.
 
-### **DELETE** `/api/Lead/{id}`
-Deletes a specific lead by its ID.
+##### **DELETE** `/api/Lead/{id}` - Deletes a specific lead by its ID.
 
 ---
 
-## Order Endpoints
+### Order Endpoints
 
-### **GET** `/api/Order`
-Lists all orders.
+##### **GET** `/api/Order` - Lists all orders.
 
-### **POST** `/api/Order`
-Creates a new order.
+##### **POST** `/api/Order` - Creates a new order.
 
-### **GET** `/api/Order/{id}`
-Retrieves a specific order by its ID.
+##### **GET** `/api/Order/{id}` - Retrieves a specific order by its ID.
 
-### **PUT** `/api/Order/{id}`
-Updates a specific order by its ID.
+##### **PUT** `/api/Order/{id}` - Updates a specific order by its ID.
 
-### **DELETE** `/api/Order/{id}`
-Deletes a specific order by its ID.
+##### **DELETE** `/api/Order/{id}` - Deletes a specific order by its ID.
 
 ---
 
-## Payment Endpoints
+### Payment Endpoints
 
-### **GET** `/api/Payment`
-Lists all payments.
+##### **GET** `/api/Payment` - Lists all payments.
 
-### **POST** `/api/Payment`
-Creates a new payment.
+##### **POST** `/api/Payment` - Creates a new payment.
 
-### **GET** `/api/Payment/{id}`
-Retrieves a specific payment by its ID.
+##### **GET** `/api/Payment/{id}` - Retrieves a specific payment by its ID.
 
-### **PUT** `/api/Payment/{id}`
-Updates a specific payment by its ID.
+##### **PUT** `/api/Payment/{id}` - Updates a specific payment by its ID.
 
-### **DELETE** `/api/Payment/{id}`
-Deletes a specific payment by its ID.
+##### **DELETE** `/api/Payment/{id}` - Deletes a specific payment by its ID.
 
 ---
 
-## Product Endpoints
+### Product Endpoints
 
-### **GET** `/api/Product`
-Lists all products.
+##### **GET** `/api/Product` - Lists all products.
 
-### **POST** `/api/Product`
-Creates a new product.
+##### **POST** `/api/Product` - Creates a new product.
 
-### **GET** `/api/Product/{id}`
-Retrieves a specific product by its ID.
+##### **GET** `/api/Product/{id}` - Retrieves a specific product by its ID.
 
-### **PUT** `/api/Product/{id}`
-Updates a specific product by its ID.
+##### **PUT** `/api/Product/{id}` - Updates a specific product by its ID.
 
-### **DELETE** `/api/Product/{id}`
-Deletes a specific product by its ID.
+##### **DELETE** `/api/Product/{id}` - Deletes a specific product by its ID.
 
 ---
 
-## Reminder Endpoints
+### Reminder Endpoints
 
-### **POST** `/api/Reminder`
-Creates a new reminder.
+##### **POST** `/api/Reminder` - Creates a new reminder.
 
-### **GET** `/api/Reminder`
-Lists all reminders.
+##### **GET** `/api/Reminder` - Lists all reminders.
 
-### **GET** `/api/Reminder/{id}`
-Retrieves a specific reminder by its ID.
+##### **GET** `/api/Reminder/{id}` - Retrieves a specific reminder by its ID.
 
-### **DELETE** `/api/Reminder/{id}`
-Deletes a specific reminder by its ID.
+##### **DELETE** `/api/Reminder/{id}` - Deletes a specific reminder by its ID.
 
-### **PUT** `/api/Reminder/{id}`
-Updates a specific reminder by its ID.
+##### **PUT** `/api/Reminder/{id}` - Updates a specific reminder by its ID.
 
-### **GET** `/api/Reminder/user/{userId}`
-Retrieves reminders for a specific user by their ID.
+##### **GET** `/api/Reminder/user/{userId}` - Retrieves reminders for a specific user by their ID.
 
-### **POST** `/api/Reminder/send-reminders`
-Sends reminders to users.
+##### **POST** `/api/Reminder/send-reminders` - Sends reminders to users.
 
 ---
 
-## Report Endpoints
+### Report Endpoints
 
-### **GET** `/api/Report`
-Lists all reports.
+##### **GET** `/api/Report` - Lists all reports.
 
-### **POST** `/api/Report`
-Creates a new report.
+##### **POST** `/api/Report` - Creates a new report.
 
-### **GET** `/api/Report/{id}`
-Retrieves a specific report by its ID.
+##### **GET** `/api/Report/{id}` - Retrieves a specific report by its ID.
 
-### **PUT** `/api/Report/{id}`
-Updates a specific report by its ID.
+##### **PUT** `/api/Report/{id}` - Updates a specific report by its ID.
 
-### **DELETE** `/api/Report/{id}`
-Deletes a specific report by its ID.
+##### **DELETE** `/api/Report/{id}` - Deletes a specific report by its ID.
 
 ---
 
-## SalesPipeline Endpoints
+### SalesPipeline Endpoints
 
-### **GET** `/api/SalesPipeline`
-Lists all stages of the sales pipeline.
+##### **GET** `/api/SalesPipeline` - Lists all stages of the sales pipeline.
 
-### **POST** `/api/SalesPipeline`
-Creates a new sales pipeline stage.
+##### **POST** `/api/SalesPipeline` - Creates a new sales pipeline stage.
 
-### **GET** `/api/SalesPipeline/{id}`
-Retrieves a specific sales pipeline stage by its ID.
+##### **GET** `/api/SalesPipeline/{id}` - Retrieves a specific sales pipeline stage by its ID.
 
-### **PUT** `/api/SalesPipeline/{id}`
-Updates a specific sales pipeline stage by its ID.
+##### **PUT** `/api/SalesPipeline/{id}` - Updates a specific sales pipeline stage by its ID.
 
-### **DELETE** `/api/SalesPipeline/{id}`
-Deletes a specific sales pipeline stage by its ID.
+##### **DELETE** `/api/SalesPipeline/{id}` - Deletes a specific sales pipeline stage by its ID.
 
 ---
 
-## Task Endpoints
+### Task Endpoints
 
-### **GET** `/api/Task`
-Lists all tasks.
+##### **GET** `/api/Task` - Lists all tasks.
 
-### **POST** `/api/Task`
-Creates a new task.
+##### **POST** `/api/Task` - Creates a new task.
 
-### **GET** `/api/Task/{id}`
-Retrieves a specific task by its ID.
+##### **GET** `/api/Task/{id}` - Retrieves a specific task by its ID.
 
-### **PUT** `/api/Task/{id}`
-Updates a specific task by its ID.
+##### **PUT** `/api/Task/{id}` - Updates a specific task by its ID.
 
-### **DELETE** `/api/Task/{id}`
-Deletes a specific task by its ID.
+##### **DELETE** `/api/Task/{id}` - Deletes a specific task by its ID.
 
 ---
 
-## Ticket Endpoints
+### Ticket Endpoints
 
-### **GET** `/api/Ticket`
-Lists all tickets.
+##### **GET** `/api/Ticket` - Lists all tickets.
 
-### **POST** `/api/Ticket`
-Creates a new ticket.
+##### **POST** `/api/Ticket` - Creates a new ticket.
 
-### **GET** `/api/Ticket/{id}`
-Retrieves a specific ticket by its ID.
+##### **GET** `/api/Ticket/{id}` - Retrieves a specific ticket by its ID.
 
-### **PUT** `/api/Ticket/{id}`
-Updates a specific ticket by its ID.
+##### **PUT** `/api/Ticket/{id}` - Updates a specific ticket by its ID.
 
-### **DELETE** `/api/Ticket/{id}`
-Deletes a specific ticket by its ID.
+##### **DELETE** `/api/Ticket/{id}` - Deletes a specific ticket by its ID.
 
 ---
 
@@ -439,7 +346,6 @@ The following data models define the structure of data used in the API:
 
 Each of these models represents the structure of data used in various API endpoints and is key for data interaction and storage.
 
----
 
 ## **Contact**
 
@@ -449,4 +355,4 @@ For questions, suggestions, or any problems, feel free to contact me:
 
 ---
 
-Thank you for discovering **AuthApp Platform**!
+Thank you for discovering **CRMAPI**!
